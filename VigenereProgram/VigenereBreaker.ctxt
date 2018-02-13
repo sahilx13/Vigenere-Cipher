@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=message\ whichSlice\ totalSlices
+comment0.target=java.lang.String\ sliceString(java.lang.String,\ int,\ int)
+comment1.params=encrypted\ klength\ mostCommon
+comment1.target=int[]\ tryKeyLength(java.lang.String,\ int,\ char)
+comment2.params=fr
+comment2.target=java.util.HashSet\ readDicitionary(edu.duke.FileResource)
+comment3.params=message\ dictionary
+comment3.target=int\ countWords(java.lang.String,\ java.util.HashSet)
+comment4.params=dictionary
+comment4.target=char\ mostCommonCharIn(java.util.HashSet)
+comment5.params=encrypted\ languages
+comment5.target=void\ breakForAllLanguages(java.lang.String,\ java.util.HashMap)
+comment6.params=encrypted\ dictionary
+comment6.target=java.lang.String\ breakForLanguage(java.lang.String,\ java.util.HashSet)
+comment7.params=
+comment7.target=void\ breakVigenere()
+numComments=8
